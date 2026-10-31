@@ -38,6 +38,6 @@ This diagram shows the attack and recovery sequence used in the report. Recovery
 
 ## Planned implementation
 
-I plan to add a file-analysis tool, test it with harmless sample files, and compare entropy with other file-change indicators. Results and run instructions will be added with the code.
+I plan to add a file-analysis tool, test it with harmless sample files, and compare entropy with other file-change indicators. I will add results and run instructions with the code.
 
 [Research notes](docs/RESEARCH.md) · [Report and figure sources](docs/SOURCES.md)
